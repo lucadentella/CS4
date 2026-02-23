@@ -13,4 +13,4 @@
 
 ## Loconet
 
-In the [arduino](https://github.com/lucadentella/CS4/blob/main/arduino/) folder, you can find a sketch to interface the sensor with a Loconet bus, using an Arduino uno and my [Loconet interface](https://github.com/lucadentella/arduino-loconetshield).
+In the [Arduino](https://github.com/lucadentella/CS4/blob/main/Arduino/) folder, you can find a sketch to interface the sensor with a Loconet bus, using an Arduino uno and my [Loconet interface](https://github.com/lucadentella/arduino-loconetshield).
