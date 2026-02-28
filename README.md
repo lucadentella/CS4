@@ -6,7 +6,7 @@ Works with **DCC-EX** and any command stations with I/O pins.
 
 Can be connected to **Loconet** (see "Loconet" below).
 
-![](https://github.com/lucadentella/CS4/raw/main/images/cs4.jpg)
+![](https://github.com/lucadentella/CS4/raw/main/images/foto.jpg)
 
 ## Board
 
