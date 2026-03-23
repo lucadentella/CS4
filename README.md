@@ -18,3 +18,8 @@ Can be connected to **Loconet** (see "Loconet" below).
 ## Loconet
 
 In the [Arduino](https://github.com/lucadentella/CS4/blob/main/Arduino/) folder, you can find a sketch to interface the sensor with a Loconet bus, using an Arduino uno and my [Loconet interface](https://github.com/lucadentella/arduino-loconetshield).
+
+## Video tutorial
+
+[![Guarda il video su YouTube](https://img.youtube.com/vi/rnLhqDJ8y2M/hqdefault.jpg)](https://youtu.be/rnLhqDJ8y2M)
+
